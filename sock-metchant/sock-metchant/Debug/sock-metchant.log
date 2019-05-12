@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\may trinh\desktop\sock-metchant\sock-metchant\source.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\may trinh\desktop\sock-metchant\sock-metchant\source.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\may trinh\desktop\sock-metchant\sock-metchant\source.cpp(23): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\may trinh\desktop\sock-metchant\sock-metchant\source.cpp(23): warning C4552: '&': result of expression not used
+c:\users\may trinh\desktop\sock-metchant\sock-metchant\source.cpp(10): warning C4101: 'temp': unreferenced local variable
+  sock-metchant.vcxproj -> C:\Users\May Trinh\Desktop\sock-metchant\Debug\sock-metchant.exe
